@@ -28,9 +28,11 @@
   font-size: 4rem;
 }
 button{
-  color: aliceblue;
-  padding: 10px;
-  border-radius: 50%;
-  font-size: 2rem;
   border: none;
+  padding: .5rem;
+  border-radius: 50%;
+}
+button i{
+  font-size: 2rem;
+  color: aliceblue;
 }
